@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mini-project-ReactJS/static/css/main.7f593488.css",
+    "main.js": "/mini-project-ReactJS/static/js/main.49affaf8.js",
+    "static/media/weather.jpeg": "/mini-project-ReactJS/static/media/weather.a36bd00c7bcdce66efcf.jpeg",
+    "index.html": "/mini-project-ReactJS/index.html",
+    "main.7f593488.css.map": "/mini-project-ReactJS/static/css/main.7f593488.css.map",
+    "main.49affaf8.js.map": "/mini-project-ReactJS/static/js/main.49affaf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f593488.css",
+    "static/js/main.49affaf8.js"
+  ]
+}
